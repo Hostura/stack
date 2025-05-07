@@ -25,6 +25,7 @@
 ## 🛠️ Who Is It For?
 
 Hostura is ideal for:
+
 - Advanced self-hosters  
 - Professionals looking for a ready-to-use server base  
 - Developers wanting a portable DevOps-ready environment  
